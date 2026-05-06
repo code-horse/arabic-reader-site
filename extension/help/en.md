@@ -6,7 +6,7 @@ lang: en
 
 # Arabic Reader - User Guide
 
-> Version: v1.0.0
+> Version: v1.0.1
 
 ## Introduction
 
@@ -27,7 +27,7 @@ Arabic Reader is a browser extension designed for Arabic learners. It adds Tashk
 - **Smart Detection** — Automatic Arabic text detection and PDF smart redirect
 - **Root Extraction** — Identify word roots for better understanding of Arabic morphology
 - **Keyboard Shortcuts** — Quick access to core features
-- **Multilingual Interface** — Arabic, English, and Chinese UI
+- **Multilingual Interface** — Supports 51 interface locales
 
 ---
 

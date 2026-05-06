@@ -11,55 +11,59 @@ An Arabic language learning tool with Tashkeel (vowel marks) annotations.
 
 ### Help / User Guide
 
-| Language | Link |
-|----------|------|
-| English | [User Guide](./extension/help/en) |
-| العربية | [دليل المستخدم](./extension/help/ar) |
-| 简体中文 | [使用手册](./extension/help/zh) |
-| 繁體中文 | [使用手冊](./extension/help/zh-TW) |
-| Amharic | [የተጠቃሚ መመሪያ](./extension/help/am) |
-| Bengali | [ব্যবহারকারীর নির্দেশিকা](./extension/help/bn) |
-| Bulgarian | [Ръководство за потребителя](./extension/help/bg) |
-| Catalan | [Guia d'usuari](./extension/help/ca) |
-| Croatian | [Korisnički priručnik](./extension/help/hr) |
-| Czech | [Uživatelská příručka](./extension/help/cs) |
-| Danish | [Brugervejledning](./extension/help/da) |
-| Dutch | [Handleiding](./extension/help/nl) |
-| Estonian | [Kasutusjuhend](./extension/help/et) |
-| Filipino | [Gabay ng gumagamit](./extension/help/fil) |
-| Finnish | [Käyttöopas](./extension/help/fi) |
-| French | [Guide d'utilisation](./extension/help/fr) |
-| German | [Benutzerhandbuch](./extension/help/de) |
-| Greek | [Οδηγός χρήσης](./extension/help/el) |
-| Hebrew | [מדריך למשתמש](./extension/help/he) |
-| Hindi | [उपयोगकर्ता मार्गदर्शिका](./extension/help/hi) |
-| Hungarian | [Felhasználói útmutató](./extension/help/hu) |
-| Indonesian | [Panduan pengguna](./extension/help/id) |
-| Italian | [Guida utente](./extension/help/it) |
-| Japanese | [ユーザーガイド](./extension/help/ja) |
-| Korean | [사용 가이드](./extension/help/ko) |
-| Latvian | [Lietošanas pamācība](./extension/help/lv) |
-| Lithuanian | [Naudotojo vadovas](./extension/help/lt) |
-| Malay | [Panduan pengguna](./extension/help/ms) |
-| Norwegian | [Brukerveiledning](./extension/help/no) |
-| Persian | [راهنمای کاربر](./extension/help/fa) |
-| Polish | [Podręcznik użytkownika](./extension/help/pl) |
-| Portuguese | [Guia do usuário](./extension/help/pt) |
-| Romanian | [Ghid de utilizare](./extension/help/ro) |
-| Russian | [Руководство](./extension/help/ru) |
-| Serbian | [Приручник](./extension/help/sr) |
-| Slovak | [Príručka používateľa](./extension/help/sk) |
-| Slovenian | [Uporabniški priročnik](./extension/help/sl) |
-| Spanish | [Guía del usuario](./extension/help/es) |
-| Swahili | [Mwongozo wa Mtumiaji](./extension/help/sw) |
-| Swedish | [Användarguide](./extension/help/sv) |
-| Tamil | [பயனர் வழிகாட்டி](./extension/help/ta) |
-| Telugu | [వినియోగదారి మార్గదర్శి](./extension/help/te) |
-| Thai | [คู่มือการใช้งาน](./extension/help/th) |
-| Turkish | [Kullanım kılavuzu](./extension/help/tr) |
-| Ukrainian | [Посібник](./extension/help/uk) |
-| Urdu | [صارف گائیڈ](./extension/help/ur) |
-| Vietnamese | [Hướng dẫn sử dụng](./extension/help/vi) |
+| Locale | Link |
+|--------|------|
+| ar | [العربية](./extension/help/ar) |
+| en | [English](./extension/help/en) |
+| en_AU | [English (Australia)](./extension/help/en) |
+| en_CA | [English (Canada)](./extension/help/en) |
+| en_GB | [English (UK)](./extension/help/en) |
+| zh_CN | [简体中文](./extension/help/zh) |
+| zh_TW | [繁體中文](./extension/help/zh-TW) |
+| ja | [日本語](./extension/help/ja) |
+| ko | [한국어](./extension/help/ko) |
+| de | [Deutsch](./extension/help/de) |
+| fr | [Français](./extension/help/fr) |
+| fr_CA | [Français (Canada)](./extension/help/fr) |
+| es | [Español](./extension/help/es) |
+| es_MX | [Español (México)](./extension/help/es) |
+| it | [Italiano](./extension/help/it) |
+| pt | [Português](./extension/help/pt) |
+| pt_BR | [Português (Brasil)](./extension/help/pt) |
+| pt_PT | [Português (Portugal)](./extension/help/pt) |
+| ru | [Русский](./extension/help/ru) |
+| nl | [Nederlands](./extension/help/nl) |
+| pl | [Polski](./extension/help/pl) |
+| uk | [Українська](./extension/help/uk) |
+| tr | [Türkçe](./extension/help/tr) |
+| vi | [Tiếng Việt](./extension/help/vi) |
+| th | [ไทย](./extension/help/th) |
+| id | [Bahasa Indonesia](./extension/help/id) |
+| ms | [Bahasa Melayu](./extension/help/ms) |
+| hi | [हिन्दी](./extension/help/hi) |
+| sv | [Svenska](./extension/help/sv) |
+| no | [Norsk](./extension/help/no) |
+| da | [Dansk](./extension/help/da) |
+| fi | [Suomi](./extension/help/fi) |
+| el | [Ελληνικά](./extension/help/el) |
+| cs | [Čeština](./extension/help/cs) |
+| sk | [Slovenčina](./extension/help/sk) |
+| hu | [Magyar](./extension/help/hu) |
+| ro | [Română](./extension/help/ro) |
+| hr | [Hrvatski](./extension/help/hr) |
+| ca | [Català](./extension/help/ca) |
+| bn | [বাংলা](./extension/help/bn) |
+| gu | [ગુજરાતી](./extension/help/gu) |
+| he | [עברית](./extension/help/he) |
+| kn | [ಕನ್ನಡ](./extension/help/kn) |
+| ml | [മലയാളം](./extension/help/ml) |
+| mr | [मराठी](./extension/help/mr) |
+| or | [ଓଡ଼ିଆ](./extension/help/or) |
+| pa | [ਪੰਜਾਬੀ](./extension/help/pa) |
+| sl | [Slovenščina](./extension/help/sl) |
+| ta | [தமிழ்](./extension/help/ta) |
+| te | [తెలుగు](./extension/help/te) |
+| ur | [اردو](./extension/help/ur) |
 
 ### Other
 
