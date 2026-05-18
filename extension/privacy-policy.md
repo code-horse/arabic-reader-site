@@ -5,9 +5,9 @@ title: Privacy Policy — Arabic Reader Extension
 
 # Privacy Policy — Arabic Reader Extension
 
-**Last updated**: April 28, 2026
+**Last updated**: May 18, 2026
 
-**Effective date**: April 28, 2026
+**Effective date**: May 18, 2026
 
 ---
 
@@ -36,7 +36,7 @@ The Extension stores the following data **locally in your browser only** (via Ch
 
 | Data Type | Purpose | Storage |
 |-----------|---------|---------|
-| Extension settings | Preferences (enable/disable, hover mode, speech rate, translation engine, target language, PDF detection, etc.) | Browser local storage |
+| Extension settings | Preferences (enable/disable, hover mode, definition language, speech rate, translation engine, target language, PDF detection, etc.) | Browser local storage |
 | UI language preference | Remember your chosen interface language | Browser local storage |
 
 **Important**: All data listed above exists **only in your browser**. It is never uploaded to any server. If you uninstall the extension, this data will be permanently deleted.
@@ -49,11 +49,15 @@ All Tashkeel (Arabic vowel marks) annotation is performed **entirely locally** w
 - Arabic word recognition, root extraction, homograph disambiguation, and I'rab analysis happen on-device.
 - **No text is sent to any external server** for Tashkeel processing.
 
-### 5. Dictionary Feature
+### 5. Dictionary Feature (Multilingual Definitions)
 
-The Extension includes a built-in Arabic dictionary:
+The Extension includes built-in local dictionaries for Arabic learning:
 
-- The dictionary data is stored locally within the extension.
+- **Tashkeel dictionary** for Arabic vowel marks and learner-friendly vocalization.
+- **English definitions** from a bundled Wiktionary Arabic subset.
+- **French definitions** from a bundled Wiktionary Arabic subset.
+
+- Dictionary data is stored locally within the extension.
 - All dictionary lookups are performed **entirely offline** — no network requests are made.
 - The dictionary data is loaded on-demand and unloaded when disabled to conserve memory.
 
@@ -107,6 +111,19 @@ The Extension requests the following browser permissions:
 | Library | Purpose | Data Handling |
 |---------|---------|---------------|
 | PDF.js (Mozilla) | Render PDF documents | Runs entirely locally |
+| Wiktionary subsets | English/French definitions for Arabic words | Pre-built data bundled locally |
+| Built-in Tashkeel dictionary | Arabic vowel marks and learner vocalization | Bundled locally and processed on-device |
+
+#### Open-source Dictionary Attribution
+
+Arabic Reader bundles offline dictionary resources from open-source or public projects:
+
+- **Arabic definition data**: English and French definitions are derived from Wiktionary Arabic entries and packaged as local subsets for offline lookup.
+- **Tashkeel data**: the built-in Tashkeel dictionary is curated for Modern Standard Arabic, Classical Arabic orthography, and Arabic learners, with references to public Arabic vocalization resources such as Tashkeela-style corpora during dataset preparation.
+
+All dictionary lookups run locally in your browser, and we do not operate a dictionary backend service.
+
+Upstream projects retain their own copyright and license terms. For authoritative licensing details, please refer to each project's official repository or website.
 
 ### 11. Children's Privacy
 

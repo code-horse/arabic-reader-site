@@ -5,7 +5,7 @@ lang: hr
 ---
 # Arabic Reader - Korisnički priručnik
 
-> Verzija: v1.0.0
+> Verzija: v1.5.0
 
 ## Uvod
 

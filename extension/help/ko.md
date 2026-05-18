@@ -6,7 +6,7 @@ lang: ko
 
 # Arabic Reader - 사용자 가이드
 
-> 버전: v1.0.0
+> 버전: v1.5.0
 
 ## 소개
 

@@ -5,7 +5,7 @@ lang: sw
 ---
 # Arabic Reader - Mwongozo wa Mtumiaji
 
-> Toleo: v1.0.0
+> Toleo: v1.5.0
 
 ## Utangulizi
 

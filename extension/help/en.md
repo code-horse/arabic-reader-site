@@ -6,11 +6,11 @@ lang: en
 
 # Arabic Reader - User Guide
 
-> Version: v1.0.1
+> Version: v1.5.0
 
 ## Introduction
 
-Arabic Reader is a browser extension designed for Arabic learners. It adds Tashkeel (vowel marks / حركات) to Arabic words on web pages and PDFs, providing automatic vocalization, a hover dictionary with root analysis and grammatical forms, text-to-speech, and translation features — helping you learn Arabic pronunciation and grammar more easily.
+Arabic Reader is a browser extension designed for Arabic learners. It adds Tashkeel (vowel marks / حركات) to Arabic words on web pages and PDFs, providing automatic vocalization, a multilingual hover dictionary with root analysis and grammatical forms, text-to-speech, and translation features — helping you learn Arabic pronunciation and grammar more easily.
 
 ---
 
@@ -18,7 +18,7 @@ Arabic Reader is a browser extension designed for Arabic learners. It adds Tashk
 
 - **Automatic Tashkeel** — Adds vowel marks (fathah, kasrah, dammah, sukun, shadda, tanween) to Arabic words on any web page
 - **Whole Page Mode** — One-click Tashkeel for all Arabic words on the page
-- **Hover Dictionary** — Hover over words to see vocalization, definitions, root analysis, and I'rab forms; choose between Dictionary mode, Tooltip mode, or Off
+- **Hover Dictionary** — Hover over words to see vocalization, English or French definitions, root analysis, and I'rab forms; choose between Dictionary mode, Tooltip mode, or Off
 - **I'rab Analysis** — Display grammatical case endings (nominative, accusative, genitive) for applicable words
 - **Text-to-Speech** — Arabic TTS with word-by-word karaoke highlighting (ar-SA voice)
 - **Selection Speech** — Select any text, a compact toolbar appears with speak and translate buttons
@@ -78,9 +78,18 @@ The extension includes a built-in Arabic dictionary. You can choose from multipl
 In **Dictionary mode**, the tooltip displays:
 - The word with full vocalization (Tashkeel)
 - A pronunciation button (click to hear)
-- Word definitions
+- Word definitions in your selected definition language
 - Root analysis (three-letter root)
 - I'rab (grammatical case) forms when enabled
+
+Definition language options:
+
+| Language | Data Source |
+|----------|-------------|
+| English | Wiktionary Arabic entries via bundled local subset |
+| French | Wiktionary Arabic entries via bundled local subset |
+
+> **Tip:** Dictionary data is bundled locally and loaded on demand. Lookup stays offline; only the optional translation feature uses the network when you explicitly request translation.
 
 ---
 
@@ -166,6 +175,7 @@ Both engines support **108 target languages**.
 | **Enable Tashkeel** | Master switch to enable or disable the Tashkeel annotation feature |
 | **Whole Page Tashkeel** | When enabled, adds vowel marks to all Arabic words on the page |
 | **Hover Mode** | Choose hover behavior: Dictionary (definitions + audio), Tooltip (Tashkeel + audio), or Off |
+| **Definition Language** | Set dictionary definition language: English or French |
 | **Show I'rab Forms** | Display grammatical case endings for applicable words |
 | **Speech Rate** | Adjust the speed of sentence reading |
 | **Translation Engine** | Choose between Bing Translate and Google Translate |
@@ -190,6 +200,14 @@ A: Translation requires an internet connection. If Bing Translate fails, try swi
 
 **Q: How do I open a PDF with Arabic Reader?**  
 A: Click "Open PDF Reader" in the popup, right-click a PDF link and choose "Open PDF with Arabic Reader", or enable "PDF Smart Detection" in settings.
+
+**Q: Can I use the dictionary offline?**
+
+A: Yes. The bundled Tashkeel dictionary and Wiktionary-derived English/French definition subsets are stored locally in the extension. Lookups run on-device without network access.
+
+**Q: Can I change dictionary definition language?**
+
+A: Yes. In popup settings, set "Hover Mode" to "Dictionary", then choose "Definition Language" as English or French.
 
 ---
 

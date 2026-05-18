@@ -7,7 +7,7 @@ title: Arabic Reader Extension - Support
 
 ## About Arabic Reader Extension
 
-Arabic Reader is a Chrome browser extension that adds Tashkeel (vowel marks / حركات) to Arabic words on any web page and PDF. It features automatic vocalization, a hover dictionary with root analysis and I'rab (grammatical case) forms, text-to-speech with karaoke highlighting, translation, and a built-in RTL PDF reader.
+Arabic Reader is a Chrome browser extension that adds Tashkeel (vowel marks / حركات) to Arabic words on any web page and PDF. It features automatic vocalization, a multilingual hover dictionary with English/French definitions, root analysis and I'rab (grammatical case) forms, text-to-speech with karaoke highlighting, translation, and a built-in RTL PDF reader.
 
 ---
 
@@ -44,13 +44,17 @@ A: I'rab (الإعراب) refers to the grammatical case endings in Arabic. When
 ### Dictionary
 
 **Q: How does the hover dictionary work?**  
-A: Set the "Hover Mode" to "Dictionary" in the settings, then hover over any Arabic word to see its vocalization, definitions, root analysis, and pronunciation button.
+A: Set the "Hover Mode" to "Dictionary" in the settings, then hover over any Arabic word to see its vocalization, English or French definitions, root analysis, and pronunciation button.
 
 **Q: What are the hover mode options?**  
 A: You can choose from three modes: Dictionary (Tashkeel + definitions + audio), Tooltip (Tashkeel + audio), or Off (no hover effect).
 
+**Q: Can I switch the definition language?**
+
+A: Yes. In popup settings, keep "Hover Mode" as "Dictionary" and select "Definition Language". Arabic Reader currently bundles English and French definition dictionaries.
+
 **Q: Does the dictionary work offline?**  
-A: Yes. The dictionary is fully bundled within the extension. All lookups are performed locally without any network connection.
+A: Yes. The Tashkeel dictionary and Wiktionary-derived English/French definition subsets are fully bundled within the extension. All lookups are performed locally without any network connection.
 
 ### PDF Reader
 

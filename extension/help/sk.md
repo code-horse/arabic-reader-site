@@ -5,7 +5,7 @@ lang: sk
 ---
 # Arabic Reader - Používateľská príručka
 
-> Verzia: v1.0.0
+> Verzia: v1.5.0
 
 ## Úvod
 

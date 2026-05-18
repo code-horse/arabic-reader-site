@@ -6,7 +6,7 @@ lang: pl
 
 # Arabic Reader — Podręcznik użytkownika
 
-> Wersja: v1.0.0
+> Wersja: v1.5.0
 
 ## Wprowadzenie
 

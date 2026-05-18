@@ -5,7 +5,7 @@ lang: ro
 ---
 # Arabic Reader - Ghidul utilizatorului
 
-> Versiunea: v1.0.0
+> Versiunea: v1.5.0
 
 ## Introducere
 

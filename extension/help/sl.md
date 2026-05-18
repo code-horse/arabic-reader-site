@@ -5,7 +5,7 @@ lang: sl
 ---
 # Arabic Reader - Uporabniški priročnik
 
-> Različica: v1.0.0
+> Različica: v1.5.0
 
 ## Uvod
 

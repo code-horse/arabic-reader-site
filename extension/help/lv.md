@@ -5,7 +5,7 @@ lang: lv
 ---
 # Arabic Reader - Lietotāja rokasgrāmata
 
-> Versija: v1.0.0
+> Versija: v1.5.0
 
 ## Ievads
 

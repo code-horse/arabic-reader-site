@@ -5,7 +5,7 @@ lang: et
 ---
 # Arabic Reader - Kasutusjuhend
 
-> Versioon: v1.0.0
+> Versioon: v1.5.0
 
 ## Sissejuhatus
 
