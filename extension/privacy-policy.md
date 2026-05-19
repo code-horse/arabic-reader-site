@@ -5,9 +5,9 @@ title: Privacy Policy — Arabic Reader Extension
 
 # Privacy Policy — Arabic Reader Extension
 
-**Last updated**: May 18, 2026
+**Last updated**: May 19, 2026
 
-**Effective date**: May 18, 2026
+**Effective date**: May 19, 2026
 
 ---
 
@@ -29,6 +29,18 @@ Arabic Reader Extension is designed with privacy as a core principle:
 - **No analytics or tracking** — We do not use any analytics SDKs or tracking tools.
 - **No advertising** — The extension contains no advertisements or ad-related tracking.
 - **No browsing history recording** — We do not record or transmit the URLs you visit.
+
+### Chrome Web Store Privacy Disclosure Summary
+
+The following text summarizes the privacy information used for the Chrome Web Store privacy questionnaire.
+
+**Single purpose**: Arabic Reader helps users read and learn Arabic on web pages and PDFs by adding Tashkeel vowel marks, dictionary lookup, root and I'rab hints, text-to-speech, translation, and a built-in PDF reader directly in the browser.
+
+**Storage permission justification**: The `storage` permission is used only to save user preferences locally in the browser, such as enable/disable state, hover mode, definition language, speech rate, translation engine, target language, UI language, theme, and PDF detection settings. Arabic Reader does not use storage to collect personal data, browsing history, analytics, advertising identifiers, or tracking information.
+
+**Host permission justification**: The extension needs host access so it can detect Arabic text on the pages the user visits, add Tashkeel annotations, show the hover dictionary, speak or translate selected text when requested, and open PDF URLs in the built-in reader when PDF Smart Detection is enabled. Page content is processed locally for annotation and dictionary lookup. Only text that the user explicitly selects and translates is sent to the selected third-party translation provider.
+
+**Remote code and analytics**: Arabic Reader does not load remote code, does not use analytics SDKs, and does not include advertising or tracking.
 
 ### 3. Data Stored Locally in Your Browser
 
