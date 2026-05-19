@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - ಬಳಕೆದಾರ ಮಾರ್ಗದರ್ಶಿ
+permalink: /extension/help/kn/
 lang: kn
 ---
 

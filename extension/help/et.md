@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Kasutusjuhend
+permalink: /extension/help/et/
 lang: et
 ---
 # Arabic Reader - Kasutusjuhend
@@ -194,8 +195,8 @@ V: Klõpsake hüpikaknas "Ava PDF-lugeja", paremklõpsake PDF-i lingil ja valige
 
 ## Seotud lingid
 
-- [Privaatsuspoliitika](../privacy-policy)
-- [Tugi ja tagasiside](../support)
+- [Privaatsuspoliitika](../../privacy-policy/)
+- [Tugi ja tagasiside](../../support/)
 
 ---
 

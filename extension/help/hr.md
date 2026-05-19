@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Korisnički priručnik
+permalink: /extension/help/hr/
 lang: hr
 ---
 # Arabic Reader - Korisnički priručnik
@@ -194,8 +195,8 @@ O: Kliknite "Otvori PDF čitač" u skočnom prozoru, desnom tipkom miša kliknit
 
 ## Povezane veze
 
-- [Pravila o privatnosti](../privacy-policy)
-- [Podrška i povratne informacije](../support)
+- [Pravila o privatnosti](../../privacy-policy/)
+- [Podrška i povratne informacije](../../support/)
 
 ---
 

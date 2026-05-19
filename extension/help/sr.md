@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: <<ПРС010>> - Упутство за употребу
+permalink: /extension/help/sr/
 lang: sr
 ---
 # <<ПРС010>> - Упутство за употребу

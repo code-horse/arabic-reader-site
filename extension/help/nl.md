@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension — Gebruikershandleiding
+permalink: /extension/help/nl/
 lang: nl
 ---
 
@@ -180,7 +181,7 @@ Internet is nodig. Bij falen van Bing: schakel over naar Google.
 
 ## Links
 
-- [Privacybeleid](../privacy-policy)
-- [Ondersteuning en feedback](../support)
+- [Privacybeleid](../../privacy-policy/)
+- [Ondersteuning en feedback](../../support/)
 
 ---

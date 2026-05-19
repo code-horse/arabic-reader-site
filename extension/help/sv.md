@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Användarhandbok
+permalink: /extension/help/sv/
 lang: sv
 ---
 # Arabic Reader - Användarhandbok
@@ -194,8 +195,8 @@ S: Klicka på "Öppna PDF Reader" i popup-fönstret, högerklicka på en PDF-lä
 
 ## Relaterade länkar
 
-- [Sekretesspolicy](../privacy-policy)
-- [Support och feedback](../support)
+- [Sekretesspolicy](../../privacy-policy/)
+- [Support och feedback](../../support/)
 
 ---
 

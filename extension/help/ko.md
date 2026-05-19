@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader 확장 프로그램 - 사용자 가이드
+permalink: /extension/help/ko/
 lang: ko
 ---
 
@@ -180,7 +181,7 @@ Chrome에 포함된 아랍어 TTS(ar-SA) 음성을 사용합니다.
 
 ## 관련 링크
 
-- [개인정보 처리방침](../privacy-policy)
-- [지원 및 피드백](../support)
+- [개인정보 처리방침](../../privacy-policy/)
+- [지원 및 피드백](../../support/)
 
 ---

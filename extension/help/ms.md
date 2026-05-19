@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Panduan Pengguna
+permalink: /extension/help/ms/
 lang: ms
 ---
 # Arabic Reader - Panduan Pengguna

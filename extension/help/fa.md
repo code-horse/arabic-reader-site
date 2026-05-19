@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - راهنمای کاربر
+permalink: /extension/help/fa/
 lang: fa
 dir: rtl
 ---
@@ -195,8 +196,8 @@ A: برنامه افزودنی از تشخیص هوشمند برای یافتن 
 
 ## پیوندهای مرتبط
 
-- [سیاست حفظ حریم خصوصی] (../privacy-policy)
-- [پشتیبانی و بازخورد] (../support)
+- [سیاست حفظ حریم خصوصی](../../privacy-policy/)
+- [پشتیبانی و بازخورد](../../support/)
 
 ---
 

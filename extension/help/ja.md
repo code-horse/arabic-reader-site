@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader 拡張機能 - ユーザーガイド
+permalink: /extension/help/ja/
 lang: ja
 ---
 
@@ -180,7 +181,7 @@ Chrome 組み込みのアラビア語 TTS（ar-SA）を使用します。
 
 ## 関連リンク
 
-- [プライバシーポリシー](../privacy-policy)
-- [サポートとフィードバック](../support)
+- [プライバシーポリシー](../../privacy-policy/)
+- [サポートとフィードバック](../../support/)
 
 ---

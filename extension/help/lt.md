@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader – Vartotojo vadovas
+permalink: /extension/help/lt/
 lang: lt
 ---
 # Arabic Reader – Vartotojo vadovas
@@ -194,8 +195,8 @@ A: Iššokančiajame lange spustelėkite „Atidaryti PDF skaitytuvą“, dešin
 
 ## Susijusios nuorodos
 
-– [Privatumo politika](../privacy-policy)
-- [Palaikymas ir atsiliepimai](../support)
+– [Privatumo politika](../../privacy-policy/)
+- [Palaikymas ir atsiliepimai](../../support/)
 
 ---
 

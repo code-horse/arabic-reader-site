@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Ghidul utilizatorului
+permalink: /extension/help/ro/
 lang: ro
 ---
 # Arabic Reader - Ghidul utilizatorului
@@ -195,7 +196,7 @@ R: Faceți clic pe „Open PDF Reader” în fereastra pop-up, faceți clic drea
 ## Linkuri conexe
 
 - [Politica de confidențialitate](../politica-de-confidențialitate)
-- [Suport și feedback](../support)
+- [Suport și feedback](../../support/)
 
 ---
 

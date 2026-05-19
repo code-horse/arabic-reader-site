@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Uporabniški priročnik
+permalink: /extension/help/sl/
 lang: sl
 ---
 # Arabic Reader - Uporabniški priročnik
@@ -194,8 +195,8 @@ O: Kliknite »Odpri bralnik PDF« v pojavnem oknu, z desno miškino tipko klikni
 
 ## Sorodne povezave
 
-- [Politika zasebnosti](../privacy-policy)
-- [Podpora in povratne informacije](../support)
+- [Politika zasebnosti](../../privacy-policy/)
+- [Podpora in povratne informacije](../../support/)
 
 ---
 

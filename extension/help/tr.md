@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension — Kullanım kılavuzu
+permalink: /extension/help/tr/
 lang: tr
 ---
 
@@ -180,7 +181,7 @@ Görüntü olarak metin veya standart dışı kodlama algılanmayabilir.
 
 ## Bağlantılar
 
-- [Gizlilik politikası](../privacy-policy)
-- [Destek ve geri bildirim](../support)
+- [Gizlilik politikası](../../privacy-policy/)
+- [Destek ve geri bildirim](../../support/)
 
 ---

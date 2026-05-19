@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Gabay sa Gumagamit
+permalink: /extension/help/fil/
 lang: fil
 ---
 # Arabic Reader - Gabay sa Gumagamit
@@ -194,8 +195,8 @@ A: I-click ang "Open PDF Reader" sa popup, i-right click ang isang PDF link at p
 
 ## Mga Kaugnay na Link
 
-- [Patakaran sa Privacy](../privacy-policy)
-- [Suporta at Feedback](../support)
+- [Patakaran sa Privacy](../../privacy-policy/)
+- [Suporta at Feedback](../../support/)
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Brugervejledning
+permalink: /extension/help/da/
 lang: da
 ---
 # Arabic Reader - Brugervejledning
@@ -195,7 +196,7 @@ A: Klik på "Åbn PDF-læser" i pop op-vinduet, højreklik på et PDF-link og v�
 ## Relaterede links
 
 - [Privatlivspolitik](../privatlivspolitik)
-- [Support & Feedback](../support)
+- [Support & Feedback](../../support/)
 
 ---
 

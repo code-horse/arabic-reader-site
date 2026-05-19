@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - ବ୍ୟବହାରକାରୀ ଗାଇଡ୍
+permalink: /extension/help/or/
 lang: or
 ---
 

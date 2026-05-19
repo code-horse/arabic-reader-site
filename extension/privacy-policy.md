@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Privacy Policy — Arabic Reader Extension
+permalink: /extension/privacy-policy/
 ---
 
 # Privacy Policy — Arabic Reader Extension

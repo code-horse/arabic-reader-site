@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension — Guide d'utilisation
+permalink: /extension/help/fr/
 lang: fr
 ---
 
@@ -192,7 +193,7 @@ Utilisez « Ouvrir le lecteur PDF » dans la fenêtre contextuelle, le menu co
 
 ## Liens utiles
 
-- [Politique de confidentialité](../privacy-policy)
-- [Assistance et commentaires](../support)
+- [Politique de confidentialité](../../privacy-policy/)
+- [Assistance et commentaires](../../support/)
 
 ---

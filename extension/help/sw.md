@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Mwongozo wa Mtumiaji
+permalink: /extension/help/sw/
 lang: sw
 ---
 # Arabic Reader - Mwongozo wa Mtumiaji
@@ -194,8 +195,8 @@ J: Bofya "Fungua Kisomaji cha PDF" kwenye kidirisha ibukizi, bofya-kulia kiungo 
 
 ## Viungo Husika
 
-- [Sera ya Faragha](../privacy-policy)
-- [Usaidizi na Maoni](../support)
+- [Sera ya Faragha](../../privacy-policy/)
+- [Usaidizi na Maoni](../../support/)
 
 ---
 

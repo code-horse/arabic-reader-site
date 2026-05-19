@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - பயனர் வழிகாட்டி
+permalink: /extension/help/ta/
 lang: ta
 ---
 # Arabic Reader - பயனர் வழிகாட்டி
@@ -194,7 +195,7 @@ Arabic Reader முழு RTL ஆதரவுடன் உள்ளமைக்
 
 ## தொடர்புடைய இணைப்புகள்
 
-- [தனியுரிமைக் கொள்கை](../privacy-policy)
+- [தனியுரிமைக் கொள்கை](../../privacy-policy/)
 - [ஆதரவு & கருத்து](../ஆதரவு)
 
 ---

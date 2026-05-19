@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - የተጠቃሚ መመሪያ
+permalink: /extension/help/am/
 lang: am
 ---
 # Arabic Reader - የተጠቃሚ መመሪያ
@@ -194,8 +195,8 @@ Arabic Reader አረብኛ ፒዲኤፍ ሰነዶችን ከTashkeel ማብራሪ
 
 ## ተዛማጅ አገናኞች
 
-- [የግላዊነት መመሪያ] (../privacy-policy)
-- [ድጋፍ እና ግብረመልስ](../support)
+- [የግላዊነት መመሪያ](../../privacy-policy/)
+- [ድጋፍ እና ግብረመልስ](../../support/)
 
 ---
 

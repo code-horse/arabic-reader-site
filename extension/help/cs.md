@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Uživatelská příručka
+permalink: /extension/help/cs/
 lang: cs
 ---
 # Arabic Reader - Uživatelská příručka
@@ -195,7 +196,7 @@ Odpověď: Ve vyskakovacím okně klikněte na "Otevřít PDF Reader", klikněte
 ## Související odkazy
 
 - [Zásady ochrany osobních údajů](../zásady ochrany osobních údajů)
-- [Podpora a zpětná vazba](../support)
+- [Podpora a zpětná vazba](../../support/)
 
 ---
 

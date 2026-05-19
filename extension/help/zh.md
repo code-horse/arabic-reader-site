@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader 扩展 - 使用手册
+permalink: /extension/help/zh/
 lang: zh
 ---
 
@@ -132,7 +133,7 @@ Arabic Reader 是一款面向阿拉伯语学习者的浏览器扩展。它为网
 
 ## 相关链接
 
-- [隐私政策](../privacy-policy)
-- [支持与反馈](../support)
+- [隐私政策](../../privacy-policy/)
+- [支持与反馈](../../support/)
 
 ---

@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Οδηγός χρήσης
+permalink: /extension/help/el/
 lang: el
 ---
 # Arabic Reader - Οδηγός χρήσης
@@ -194,8 +195,8 @@ lang: el
 
 ## Σχετικοί σύνδεσμοι
 
-- [Πολιτική Απορρήτου](../privacy-policy)
-- [Υποστήριξη και σχόλια](../support)
+- [Πολιτική Απορρήτου](../../privacy-policy/)
+- [Υποστήριξη και σχόλια](../../support/)
 
 ---
 

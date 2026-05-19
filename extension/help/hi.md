@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader एक्सटेंशन — उपयोगकर्ता मार्गदर्शिका
+permalink: /extension/help/hi/
 lang: hi
 ---
 
@@ -180,7 +181,7 @@ Chrome की अंतर्निहित अरबी TTS आवाज़ (a
 
 ## संबद्ध लिंक
 
-- [गोपनीयता नीति](../privacy-policy)
-- [समर्थन](../support)
+- [गोपनीयता नीति](../../privacy-policy/)
+- [समर्थन](../../support/)
 
 ---

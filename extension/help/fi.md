@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Käyttöopas
+permalink: /extension/help/fi/
 lang: fi
 ---
 # Arabic Reader - Käyttöopas
@@ -194,8 +195,8 @@ V: Napsauta "Avaa PDF-lukija" ponnahdusikkunassa, napsauta hiiren kakkospainikke
 
 ## Aiheeseen liittyviä linkkejä
 
-- [Tietosuojakäytäntö](../privacy-policy)
-- [Tuki ja palaute](../support)
+- [Tietosuojakäytäntö](../../privacy-policy/)
+- [Tuki ja palaute](../../support/)
 
 ---
 

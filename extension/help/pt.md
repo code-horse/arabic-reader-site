@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension — Guia do usuário
+permalink: /extension/help/pt/
 lang: pt
 ---
 
@@ -180,7 +181,7 @@ Texto em imagem ou codificação não padrão pode falhar.
 
 ## Ligações
 
-- [Política de privacidade](../privacy-policy)
-- [Suporte e feedback](../support)
+- [Política de privacidade](../../privacy-policy/)
+- [Suporte e feedback](../../support/)
 
 ---

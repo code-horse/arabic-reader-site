@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Lietotāja rokasgrāmata
+permalink: /extension/help/lv/
 lang: lv
 ---
 # Arabic Reader - Lietotāja rokasgrāmata
@@ -194,8 +195,8 @@ A: Uznirstošajā logā noklikšķiniet uz "Atvērt PDF lasītāju", ar peles la
 
 ## Saistītās saites
 
-- [Konfidencialitātes politika](../privacy-policy)
-- [Atbalsts un atsauksmes](../support)
+- [Konfidencialitātes politika](../../privacy-policy/)
+- [Atbalsts un atsauksmes](../../support/)
 
 ---
 

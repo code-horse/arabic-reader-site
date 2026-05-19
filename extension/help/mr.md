@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - वापरकर्ता मार्गदर्शक
+permalink: /extension/help/mr/
 lang: mr
 ---
 

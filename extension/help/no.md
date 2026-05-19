@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Brukerveiledning
+permalink: /extension/help/no/
 lang: no
 ---
 # Arabic Reader - Brukerveiledning
@@ -194,8 +195,8 @@ A: Klikk "Åpne PDF Reader" i popup-vinduet, høyreklikk på en PDF-kobling og v
 
 ## Relaterte lenker
 
-– [Personvernerklæring](../privacy-policy)
-- [Støtte og tilbakemelding](../support)
+– [Personvernerklæring](../../privacy-policy/)
+- [Støtte og tilbakemelding](../../support/)
 
 ---
 

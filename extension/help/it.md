@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension — Guida utente
+permalink: /extension/help/it/
 lang: it
 ---
 
@@ -180,7 +181,7 @@ Serve la connessione. In caso di errore Bing, provare Google nelle impostazioni.
 
 ## Collegamenti
 
-- [Privacy policy](../privacy-policy)
-- [Supporto e feedback](../support)
+- [Privacy policy](../../privacy-policy/)
+- [Supporto e feedback](../../support/)
 
 ---

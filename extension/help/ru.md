@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension — Руководство пользователя
+permalink: /extension/help/ru/
 lang: ru
 ---
 
@@ -180,7 +181,7 @@ Arabic Reader — расширение для браузера для изуча
 
 ## См. также
 
-- [Политика конфиденциальности](../privacy-policy)
-- [Поддержка и отзывы](../support)
+- [Политика конфиденциальности](../../privacy-policy/)
+- [Поддержка и отзывы](../../support/)
 
 ---

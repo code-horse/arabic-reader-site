@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension — Podręcznik użytkownika
+permalink: /extension/help/pl/
 lang: pl
 ---
 
@@ -180,7 +181,7 @@ Wymagane jest połączenie z internetem. Przy awarii Bing przełącz na Google w
 
 ## Linki
 
-- [Polityka prywatności](../privacy-policy)
-- [Wsparcie i opinie](../support)
+- [Polityka prywatności](../../privacy-policy/)
+- [Wsparcie i opinie](../../support/)
 
 ---

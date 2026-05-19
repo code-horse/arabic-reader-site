@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - ਵਰਤੋਂਕਾਰ ਗਾਈਡ
+permalink: /extension/help/pa/
 lang: pa
 ---
 

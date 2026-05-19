@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension - Support
+permalink: /extension/support/
 ---
 
 # Arabic Reader Extension - Support

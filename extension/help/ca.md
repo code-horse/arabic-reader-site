@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Guia de l'usuari
+permalink: /extension/help/ca/
 lang: ca
 ---
 # Arabic Reader - Guia de l'usuari
@@ -194,8 +195,8 @@ R: Feu clic a "Obre PDF Reader" a la finestra emergent, feu clic amb el botó dr
 
 ## Enllaços relacionats
 
-- [Política de privadesa](../privacy-policy)
-- [Suport i comentaris](../support)
+- [Política de privadesa](../../privacy-policy/)
+- [Suport i comentaris](../../support/)
 
 ---
 

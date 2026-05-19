@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - વપરાશકર્તા માર્ગદર્શિકા
+permalink: /extension/help/gu/
 lang: gu
 ---
 

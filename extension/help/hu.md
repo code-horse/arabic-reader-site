@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Felhasználói kézikönyv
+permalink: /extension/help/hu/
 lang: hu
 ---
 # Arabic Reader - Felhasználói kézikönyv
@@ -194,8 +195,8 @@ V: Az előugró ablakban kattintson az "Open PDF Reader" (PDF-olvasó megnyitás
 
 ## Kapcsolódó linkek
 
-- [Adatvédelmi irányelvek](../privacy-policy)
-- [Támogatás és visszajelzés](../support)
+- [Adatvédelmi irányelvek](../../privacy-policy/)
+- [Támogatás és visszajelzés](../../support/)
 
 ---
 

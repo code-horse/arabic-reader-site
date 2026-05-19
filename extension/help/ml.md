@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - ഉപയോക്തൃ മാർഗ്ഗനിർദ്ദേശം
+permalink: /extension/help/ml/
 lang: ml
 ---
 

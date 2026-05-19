@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension – Benutzerhandbuch
+permalink: /extension/help/de/
 lang: de
 ---
 
@@ -189,7 +190,7 @@ Internetverbindung nötig. Bei Bing-Fehlern auf Google in den Einstellungen wech
 
 ## Links
 
-- [Datenschutz](../privacy-policy)
-- [Support & Feedback](../support)
+- [Datenschutz](../../privacy-policy/)
+- [Support & Feedback](../../support/)
 
 ---

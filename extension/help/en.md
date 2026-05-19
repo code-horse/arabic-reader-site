@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader Extension - User Guide
+permalink: /extension/help/en/
 lang: en
 ---
 
@@ -213,7 +214,7 @@ A: Yes. In popup settings, set "Hover Mode" to "Dictionary", then choose "Defini
 
 ## Related Links
 
-- [Privacy Policy](../privacy-policy)
-- [Support & Feedback](../support)
+- [Privacy Policy](../../privacy-policy/)
+- [Support & Feedback](../../support/)
 
 ---

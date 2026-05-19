@@ -1,6 +1,7 @@
 ---
 layout: bare
 title: Arabic Reader - Panduan Pengguna
+permalink: /extension/help/id/
 lang: id
 ---
 # Arabic Reader - Panduan Pengguna
@@ -195,7 +196,7 @@ J: Klik "Buka Pembaca PDF" di popup, klik kanan tautan PDF dan pilih "Buka PDF d
 ## Tautan Terkait
 
 - [Kebijakan Privasi](../kebijakan privasi)
-- [Dukungan & Masukan](../support)
+- [Dukungan & Masukan](../../support/)
 
 ---
 
