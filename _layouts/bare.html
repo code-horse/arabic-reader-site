@@ -1,5 +1,10 @@
+{% assign html_lang = page.lang | default: site.lang | default: 'en' %}
+{% assign html_dir = page.text_direction | default: 'ltr' %}
+{% if html_lang == 'ar' or html_lang == 'he' or html_lang == 'fa' or html_lang == 'ur' %}
+  {% assign html_dir = 'rtl' %}
+{% endif %}
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}" dir="{{ page.dir | default: 'ltr' }}">
+<html lang="{{ html_lang }}" dir="{{ html_dir }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
