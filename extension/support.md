@@ -110,7 +110,7 @@ A: The extension uses smart detection to find Arabic text blocks. If the text is
 
 If you have questions, feedback, or need assistance, please reach out to us:
 
-- **Email**: [2008-horse@163.com](mailto:2008-horse@163.com)
+- **Email**: [support@2008-horse.com](mailto:support@2008-horse.com)
 
 We typically respond within 2 business days.
 
