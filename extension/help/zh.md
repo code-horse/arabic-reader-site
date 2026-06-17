@@ -7,7 +7,7 @@ lang: zh
 
 # Arabic Reader - 使用手册
 
-> 版本：v1.5.0
+> 版本：v1.5.1
 
 ## 简介
 

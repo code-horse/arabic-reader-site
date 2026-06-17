@@ -6,7 +6,7 @@ lang: fil
 ---
 # Arabic Reader - Gabay sa Gumagamit
 
-> Bersyon: v1.5.0
+> Bersyon: v1.5.1
 
 ## Panimula
 

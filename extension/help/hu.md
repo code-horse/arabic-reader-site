@@ -6,7 +6,7 @@ lang: hu
 ---
 # Arabic Reader - Felhasználói kézikönyv
 
-> Verzió: v1.5.0
+> Verzió: v1.5.1
 
 ## Bevezetés
 

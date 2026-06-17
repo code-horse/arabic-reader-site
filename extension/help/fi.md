@@ -6,7 +6,7 @@ lang: fi
 ---
 # Arabic Reader - Käyttöopas
 
-> Versio: v1.5.0
+> Versio: v1.5.1
 
 ## Johdanto
 

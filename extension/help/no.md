@@ -6,7 +6,7 @@ lang: no
 ---
 # Arabic Reader - Brukerveiledning
 
-> Versjon: v1.5.0
+> Versjon: v1.5.1
 
 ## Introduksjon
 

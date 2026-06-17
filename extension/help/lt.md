@@ -6,7 +6,7 @@ lang: lt
 ---
 # Arabic Reader – Vartotojo vadovas
 
-> Versija: v1.5.0
+> Versija: v1.5.1
 
 ## Įvadas
 

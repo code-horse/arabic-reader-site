@@ -6,7 +6,7 @@ lang: ms
 ---
 # Arabic Reader - Panduan Pengguna
 
-> Versi: v1.5.0
+> Versi: v1.5.1
 
 ## Pengenalan
 

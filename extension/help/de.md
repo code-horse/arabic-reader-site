@@ -7,7 +7,7 @@ lang: de
 
 # Arabic Reader – Benutzerhandbuch
 
-> Version: v1.5.0
+> Version: v1.5.1
 
 ## Einführung
 

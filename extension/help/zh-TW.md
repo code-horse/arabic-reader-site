@@ -7,7 +7,7 @@ lang: zh-TW
 
 # Arabic Reader - 使用手冊
 
-> 版本：v1.5.0
+> 版本：v1.5.1
 
 ## 簡介
 

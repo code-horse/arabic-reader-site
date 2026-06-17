@@ -6,7 +6,7 @@ lang: ca
 ---
 # Arabic Reader - Guia de l'usuari
 
-> Versió: v1.5.0
+> Versió: v1.5.1
 
 ## Introducció
 

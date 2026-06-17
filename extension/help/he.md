@@ -7,11 +7,11 @@ dir: rtl
 ---
 # Arabic Reader - מדריך למשתמש
 
-> גרסה: v1.5.0
+> גרסה: v1.5.1
 
 ## מבוא
 
-Arabic Reader הוא תוסף דפדפן המיועד ללומדים ערבית. It adds Tashkeel (vowel marks / حركات) to Arabic words on web pages and PDFs, providing automatic vocalization, a hover dictionary with root analysis and grammatical forms, text-to-speech, and translation features — helping you learn Arabic pronunciation and grammar more easily.
+Arabic Reader הוא תוסף דפדפן המיועד ללומדים ערבית. הוא מוסיף Tashkeel (סימני תנועות / حركات) למילים בערבית בדפי אינטרנט ו-PDF, ומספק התנעה אוטומטית, מילון רחף עם ניתוח שורש וצורות דקדוקיות, טקסט לדיבור ותכונות תרגום — ומסייע לך ללמוד הגייה ודקדוק ערבי בקלות רבה יותר.
 
 ---
 
@@ -28,7 +28,7 @@ Arabic Reader הוא תוסף דפדפן המיועד ללומדים ערבית.
 - **זיהוי חכם** - זיהוי טקסט בערבית אוטומטי והפניה חכמה ל-PDF
 - **חילוץ שורשים** - זיהוי שורשי מילים להבנה טובה יותר של המורפולוגיה הערבית
 - **קיצורי מקלדת** - גישה מהירה לתכונות הליבה
-- **ממשק רב לשוני** - ממשק משתמש בערבית, אנגלית וסינית
+- **ממשק רב לשוני** — תמיכה ב-51 שפות ממשק
 
 ---
 
