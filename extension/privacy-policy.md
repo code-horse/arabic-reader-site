@@ -124,14 +124,14 @@ The Extension requests the following browser permissions:
 | Library | Purpose | Data Handling |
 |---------|---------|---------------|
 | PDF.js (Mozilla) | Render PDF documents | Runs entirely locally |
-| Wiktionary subsets | English/French definitions for Arabic words | Pre-built data bundled locally |
+| Wiktionary-derived datasets via kaikki.org | EN, ZH, FR, DE, ES, KO, RU, VI definition data | Pre-built data bundled locally |
 | Built-in Tashkeel dictionary | Arabic vowel marks and learner vocalization | Bundled locally and processed on-device |
 
 #### Open-source Dictionary Attribution
 
 Arabic Reader bundles offline dictionary resources from open-source or public projects:
 
-- **Arabic definition data**: English and French definitions are derived from Wiktionary Arabic entries and packaged as local subsets for offline lookup.
+- **Arabic definition data**: English, Chinese, French, German, Spanish, Korean, Russian, Vietnamese definitions are derived from Wiktionary Arabic entries via kaikki.org and packaged as local subsets for offline lookup. Traditional Chinese is converted locally from Simplified Chinese using OpenCC.
 - **Tashkeel data**: the built-in Tashkeel dictionary is curated for Modern Standard Arabic, Classical Arabic orthography, and Arabic learners, with references to public Arabic vocalization resources such as Tashkeela-style corpora during dataset preparation.
 
 All dictionary lookups run locally in your browser, and we do not operate a dictionary backend service.

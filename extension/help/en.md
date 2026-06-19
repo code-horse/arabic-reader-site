@@ -218,13 +218,3 @@ A: Yes. In popup settings, set "Hover Mode" to "Dictionary", then choose "Defini
 - [Support & Feedback](../../support/)
 
 ---
-
-## Dictionary Data Sources & Licenses
-
-Arabic Reader's multilingual definitions are built from the following open-source dictionary projects:
-
-| Source | Languages | License |
-|--------|-----------|---------|
-| [Wiktionary](https://kaikki.org/dictionary/) (kaikki.org extract) | EN, ZH, FR, DE, ES, KO, RU, VI | CC-BY-SA 3.0 / GFDL |
-
-All dictionary data is processed offline and bundled within the extension. No network requests are made for lookups. Original data is redistributed under the terms of the respective licenses listed above. Traditional Chinese (繁體中文) definitions are converted locally from Simplified Chinese using OpenCC. Arabic diacritical marks are stripped for lookup matching.
