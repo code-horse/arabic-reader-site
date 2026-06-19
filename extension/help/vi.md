@@ -7,7 +7,7 @@ lang: vi
 
 # Arabic Reader — Hướng dẫn sử dụng
 
-> Phiên bản: v1.5.1
+> Phiên bản: v1.6.0
 
 ## Giới thiệu
 

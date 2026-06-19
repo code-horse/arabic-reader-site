@@ -6,7 +6,7 @@ lang: sv
 ---
 # Arabic Reader - Användarhandbok
 
-> Version: v1.5.1
+> Version: v1.6.0
 
 ## Introduktion
 

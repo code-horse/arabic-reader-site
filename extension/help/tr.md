@@ -7,7 +7,7 @@ lang: tr
 
 # Arabic Reader — Kullanım kılavuzu
 
-> Sürüm: v1.5.1
+> Sürüm: v1.6.0
 
 ## Giriş
 

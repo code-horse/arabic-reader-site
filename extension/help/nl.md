@@ -7,7 +7,7 @@ lang: nl
 
 # Arabic Reader — Gebruikershandleiding
 
-> Versie: v1.5.1
+> Versie: v1.6.0
 
 ## Introductie
 
